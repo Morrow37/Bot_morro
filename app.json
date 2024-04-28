@@ -20,7 +20,8 @@
       "required": true
     },
     "HAPP": { 
-      "required": true
+      "required": true,
+      "value": "bottest" // Your Heroku app name added here
     },
     "statusview": {  
       "required": false 
