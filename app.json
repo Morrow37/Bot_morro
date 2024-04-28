@@ -9,19 +9,22 @@
     },
     "SESSION_ID": { 
       "required": true 
+      "value": "GuruBot~sshqV6K3"
     },
     "MODE": { 
       "required": true 
+      "value": "public"
     },
     "PREFIX": {  
       "required": false
     },
     "HKEY": { 
       "required": true
+      "value": "HRKU-d84afaad-7c92-4a80-9175-d4b476785989"
     },
     "HAPP": { 
       "required": true,
-      "value": "bottest" // Your Heroku app name added here
+      "value": "bkt" 
     },
     "statusview": {  
       "required": false 
