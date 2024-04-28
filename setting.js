@@ -3,16 +3,16 @@
 const fs = require('fs')
 const chalk = require('chalk')
 
-global.nomerOwner ="6287852395505"
-global.nomerOwner2 = "6287852395505"
-global.ownerName = "Zakk"
-global.namabot = "© Zex-ID V²"
-global.botName = "© Zex Simple WhatsApp Bot"
+global.nomerOwner ="212654753614"
+global.nomerOwner2 = "212654753614"
+global.ownerName = "Morro"
+global.namabot = "© aqua"
+global.botName = "© aqua Simple WhatsApp Bot"
 global.autoJoin = true
 global.sessionName = 'session' 
 global.pairing = '601161736614'
 global.packName = "Created By"
-global.authorName = "Zex-ID V²"
+global.authorName = "AQUA V²"
 global.namastore = "Kosong"
 global.nodana = "-"
 global.nogopay = "-"
@@ -21,37 +21,37 @@ global.qris = "-"
 global.TextT = `Null` 
 global.textT = `Null` 
 
-global.sgc = 'https://chat.whatsapp.com/GtFwrS0TqnA0FQ7xmrRUih'
-global.syt = 'https://youtube.com/@kizakixd'
-global.sig = 'https://instagram.com/iamkizakixd'
+global.sgc = 'https://chat.whatsapp.com/'
+global.syt = 'https://youtube.com/'
+global.sig = 'https://www.instagram.com/morro_ghost7/'
 const mess = {
-wait: '_Sedang Di Proses Mohon Di Tunggu..._',
-query: 'Masukan query',
+wait: '_In Process Please Wait..._',
+query: 'Enter query',
 search: 'Searching...',
 scrap: '*Scrapping...*',
-success: 'Berhasil!',
+success: 'Succeed!',
 err: 'Terjadi Kesalahan Coba Lagi Nanti!',
-limit: '[❕] Limit kamu sudah habis silahkan ketik .limit untuk mengecek limit',
-claimOn: 'Kamu sudah melakukan claim sebelumnya, Harap claim lagi pada jam ',
-wrongFormat: 'Format salah, coba liat lagi di menu',
+limit: '[❕]Your limit has run out, please type .limit to check the limit',
+claimOn: 'You have made a claim before, please claim again at this time',
+wrongFormat: 'Incorrect format, try looking again in the menu',
 
 error: {
-stick: 'bukan sticker itu:v',
-api: 'Error api atau linkya mungkin',
-Iv: 'Linknya error:v',
+stick: 'not that sticker :v',
+api: 'Possible api or link error',
+Iv: 'The link is error:v',
 link : "Link error!"
 },
 block:{
-Bowner: `Maaf kak command sedang dalam perbaikan coba lagi besok .`,
-Bsystem: `Command tersebut telah di block oleh system karena terjadi error`
+Bowner: `Sorry, the command is under construction, try again tomorrow.`,
+Bsystem: `The command has been blocked by the system because it occurreddi error`
 },
 only: {
-prem : 'Maaf Kak, Tapi Fitur Ini Hanya Bisa Di Gunakan Oleh User Premium',
-group: 'Fitur ini dapat digunakan di dalam group!',
-ownerB: 'Fitur khusus Owner Bot!',
-owner: 'Maaf Kak Ini Fitur Khusus Owner Ku!!!',
-admin: 'Fitur dapat digunakan oleh admin group!',
-Badmin: 'Jadikan Rangel Sebagai Admin Terlebih Dahulu!!!'
+prem : 'Sorry Sis, but this feature can only be used by premium users',
+group: 'This feature can be used in groups!',
+ownerB: 'Owner Bot special features!',
+owner: 'Sorry Sis, this is a special feature for my owner!!!',
+admin: 'Feature can be used by group admins!',
+Badmin: 'Make aqua Admin First!!!'
 }
 
 }
