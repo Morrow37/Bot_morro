@@ -102,31 +102,31 @@ return`
 ╎• brainly
 ╎
 ❍┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈◙
-❍┈┈「 *MENU PRIMBON* 」
+❍┈┈「 *PRIMBON MENU* 」
 ╎
-╎• artinama
-╎• artimimpi
-╎• kecocokanpasangan
-╎• ramalancinta
-╎• kecocokannama
-╎• jadiannikah
-╎• sifatusaha
-╎• rezeki
-╎• pekerjaan
-╎• nasib
-╎• penyakit
+╎• meaning of name
+╎• meaning of dreams
+╎• partner compatibility
+╎• love predictions
+╎• name match
+╎• get married
+╎• nature of business
+╎• sustenance
+╎• work
+╎• fate
+╎• disease
 ╎• artitarot
-╎• fengshui
-╎• haribaik
+╎• feng shui
+╎• good day
 ╎• harisangar
-╎• harisial
+╎• daily
 ╎• harinaga
-╎• peruntungan
+╎• luck
 ╎• weton
-╎• karakter
-╎• masasubur
-╎• zodiak
-╎• wangy
+╎• character
+╎• Masasubur
+╎• zodiac
+╎• fragrant
 ╎
 ❍┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈◙
 ❍┈┈「 *MENU STICKER* 」
@@ -135,7 +135,7 @@ return`
 ╎• smeme
 ╎• swm
 ╎• qc
-╎• ttp
+╎• but
 ╎• attp
 ╎• mukelu
 ╎• gurastick
@@ -151,14 +151,14 @@ return`
 ╎• kiss
 ╎• bite
 ╎• yeet
-╎• bully
+╎• bullying
 ╎• bonk
 ╎• wink
 ╎• poke
 ╎• nom
 ╎• slap
 ╎• smile
-╎• wave
+╎• waves
 ╎• awoo
 ╎• blush
 ╎• smug
@@ -167,30 +167,30 @@ return`
 ╎• dance
 ╎• cringe
 ╎• cuddle
-╎• highfive
+╎• high five
 ╎• handhold
 ╎
 ❍┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈◙
-❍┈┈「 *MENU FUN* 」
+❍┈┈「 *FUN MENU* 」
 ╎
 ╎• bucinserti
-╎• pacarsertifikat
-╎• tololsertifikat
-╎• bisakah
-╎• bagaimanakah
-╎• apakah
-╎• kapankah
-╎• cekwatak
-╎• cekhobby
-╎• cekmenek
-╎• cekkontol
+╎• girlfriendcertificate
+╎• tollolcertificate
+╎• can
+╎• how
+╎• whether
+╎• when
+╎• character check
+╎• checkhobby
+╎• check with the secretary
+╎• check the cock
 ╎• cebelapaimutciaku
 ╎• tiktokghea
 ╎• tiktokpanrika
 ╎• tiktokbocil
 ╎• tiktokkayes
 ╎• cosplayangel
-╎• videogalau
+╎• video confusion
 ╎• wibuvid
 ╎• chinese
 ╎• hijab
@@ -201,41 +201,41 @@ return`
 ╎• randomgirl
 ╎• randomboy
 ╎• thai
-╎• vietnamese
+╎• Vietnamese
 ╎• cecan
 ╎• cogan
-╎• hacker
+╎• hackers
 ╎• pubg
-╎• boneka
+╎• doll
 ╎
 ❍┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈◙
-❍┈┈「 *MENU GAME* 」
+❍┈┈「 *GAME MENU* 」
 ╎
-╎• tebakkata
-╎• matematika
-╎• tekateki
-╎• susunkata
-╎• tebakkimia
-╎• tebakgambar
-╎• tebaklirik
+╎• charades
+╎• mathematics
+╎• puzzles
+╎• word order
+╎• guess chemistry
+╎• guess the picture
+╎• guess the lyrics
 ╎• caklontong
 ╎• family100
-╎• tebaklirik
+╎• guess the lyrics
 ╎• shop
-╎• claim
+╎• claims
 ╎• transfer
-╎• limit
+╎• limits
 ╎
 ❍┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈◙
 ❍┈┈「 *ANONYMOUS* 」
 ╎
-╎• confes
+╎• confe
 ╎• menfes
 ╎
 ❍┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈◙
 ❍┈┈「 *MENU CONVERT* 」
 ╎
-╎• kodebahasa
+╎• language code
 ╎• tts
 ╎• toimg
 ╎• tovn
@@ -243,7 +243,7 @@ return`
 ╎• tomp3
 ╎• togif
 ╎• tourl
-╎• terbalik
+╎• reversed
 ╎• bass
 ╎• deep
 ╎• earrape
@@ -251,24 +251,24 @@ return`
 ╎• fat
 ╎• nightcore
 ╎• reverse
-╎• robot
+╎• robots
 ╎• slow
 ╎• smooth
-╎• tupai
+╎• squirrel
 ╎
 ❍┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈◙
-❍┈┈「 *MENU ISLAMIC* 」
+❍┈┈「 *ISLAMIC MENU* 」
 ╎
-╎• kisahnabi
-╎• alquran 
-╎• islamic
+╎• story of the prophet
+╎• Koran
+╎• Islamic
 ╎
 ❍┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈◙
-❍┈┈「 *MENU ANIME* 」
+❍┈┈「 *ANIME MENU* 」
 ╎
 ╎• anime
 ╎• randomanime
-╎• naotomori
+╎• naotomory
 ╎• loli
 ╎• cosplay
 ╎• husbu
@@ -280,7 +280,7 @@ return`
 ╎
 ╎• pornhub
 ╎• glitch
-╎• avenger
+╎• avengers
 ╎• space
 ╎• ninjalogo
 ╎• marvelstudio
@@ -297,10 +297,10 @@ return`
 ╎• sandsummer
 ╎• sandengraved
 ╎• metaldark
-╎• neonlight
+╎• neon lights
 ╎• holographic
 ╎• text1917
-╎• minion
+╎• minions
 ╎• deluxesilver
 ╎• newyearcard
 ╎• bloodfrosted
@@ -310,9 +310,9 @@ return`
 ╎• natureleaves
 ╎• bokeh
 ╎• toxic
-╎• strawberry
+╎• strawberries
 ╎• bok3d
-╎• breakwall
+╎• breakwalls
 ╎• icecold
 ╎• luxury
 ╎• cloud
@@ -320,31 +320,31 @@ return`
 ╎• horrorblood
 ╎• thunder
 ╎
-❍┈┈「 *MENU RANDOM* 」
+❍┈┈「 *RANDOM MENU* 」
 ╎
 ╎• nsfw
-╎• walpaper
+╎• wallpapers
 ╎• memeindo
 ╎• ppcp
-╎• pantun
-╎• motivasi
-╎• katabijak
+╎• rhymes
+╎• motivation
+╎• words of wisdom
 ╎• dilanquote
 ╎• truth
 ╎• dare
-╎• infocuaca
-╎• mountain
-╎• programing
+╎• weather info
+╎• mountains
+╎• programming
 ╎• technology
 ╎
 ❍┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈◙
 ❍┈┈「 *MENU SETTINGS* 」
 ╎
 ╎• setbio
-╎• setppbot 
+╎• setppbot
 ╎• setnamebot
-╎• clearsesi
-╎• delsampah
+╎• clearsession
+╎• rubbish
 ╎
 ❍┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈◙
 ❍┈┈「 *MENU STORAGE* 」
@@ -358,26 +358,26 @@ return`
 ╎• addvideo
 ╎• delvideo
 ╎• listvideo
-╎• addsticker
+╎• addstickers
 ╎• delsticker
-╎• liststicker
+╎• liststickers
 ╎
 ❍┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈◙
-❍┈┈「 *MENU OWER* 」
+❍┈┈「 *OWER MENU* 」
 ╎
 ╎• getcase
 ╎• addprem
 ╎• delprem
 ╎• public
 ╎• self
-╎• addsewa
-╎• listsewa
-╎• ceksewa
+╎• add rent
+╎• rental list
+╎• rent check
 ╎• bcgc
 ╎• join
 ╎• joincall
 ╎• adderror
-╎• delerror
+╎• error
 ╎• clearerror
 ╎• listerror
 ╎• addcmdowner
